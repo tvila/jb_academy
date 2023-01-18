@@ -1,1 +1,1 @@
-# jb_academy_private
+Some JB Academy project stages
